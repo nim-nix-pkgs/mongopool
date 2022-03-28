@@ -11,7 +11,6 @@
   inputs.src-mongopool-master.ref   = "refs/heads/master";
   inputs.src-mongopool-master.owner = "JohnAD";
   inputs.src-mongopool-master.repo  = "mongopool";
-  inputs.src-mongopool-master.dir   = "";
   inputs.src-mongopool-master.type  = "github";
   
   inputs."bson".owner = "nim-nix-pkgs";

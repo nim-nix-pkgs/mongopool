@@ -11,7 +11,6 @@
   inputs.src-mongopool-v1_0_0.ref   = "refs/tags/v1.0.0";
   inputs.src-mongopool-v1_0_0.owner = "JohnAD";
   inputs.src-mongopool-v1_0_0.repo  = "mongopool";
-  inputs.src-mongopool-v1_0_0.dir   = "";
   inputs.src-mongopool-v1_0_0.type  = "github";
   
   inputs."bson".owner = "nim-nix-pkgs";
